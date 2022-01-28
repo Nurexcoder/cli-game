@@ -1,5 +1,5 @@
 # cli-game-with-nodejs
-You can checkout the game using the command below 
+You can checkout the game using the command below (All you need is nodejs installed in your system)
  ```bash
    npx cli-game-ahmedcoder
    ```
